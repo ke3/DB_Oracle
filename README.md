@@ -1,2 +1,1 @@
-# DB_Practice
-Oracle Database
+#Oracle Database
